@@ -1,3 +1,6 @@
+# Pong - playing Pong in Python and Pygame, to learn both. I'll finish it some day...
+# Pong © 2021 is licensed under Attribution-NonCommercial 4.0 International
+
 import pygame
 import os
 
